@@ -10,7 +10,7 @@ General-purpose eslint linting
 ## Installation ##
 
 ```bash
-npm install mag-eslint
+npm install mag-eslint --save-dev
 ```
 
 
