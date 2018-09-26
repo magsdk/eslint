@@ -12,6 +12,7 @@ module.exports = {
 
     globals: {
         core: false,
+        gettext: false,
         _: false
     },
 
